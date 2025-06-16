@@ -1,5 +1,10 @@
 
-![](https://komarev.com/ghpvc/?username=3stbxnn-babu&style=flat&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=3stbxnn&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
+  <img src="https://img.shields.io/github/followers/3stbxnn?label=Followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
+  
+</p>
+
 <h1 align="center"></h1>
 <h1 align="center">Hi!,  I'm Esteban Valencia <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
